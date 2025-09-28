@@ -1,17 +1,64 @@
-![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
-<h1 align="center">Hi 👋, I'm Saptarshi Katwala</h1>
-<h3 align="center">A passionate web architect from Illinois</h3>
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt=Code" width="400" align="right">
- 
-- 🔭 I’m currently working on **AI in HealthCare**
+# 👋 Hi, I'm Saptarshi Katwala  
 
-- 📫 How to reach me **skatwala@gmail.com**
+**Director-level AI Compliance & Risk Integrator**  
+Helping enterprises deploy AI responsibly across healthcare, finance, and regulated industries.  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/saptarshi-katwala/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/saptarshi-katwala/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucaesk0lzwcog4apm_tbc2pg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucaesk0lzwcog4apm_tbc2pg" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## 🛡️ What I Do
+I build **reference architectures** and **compliance guardrails** for AI systems — so organizations can scale AI adoption without risking privacy, auditability, or regulatory failure.  
+
+My work lives at the intersection of:  
+- **Governance** – GDPR, HIPAA, GxP, EU AI Act, bias/fairness audits  
+- **Architecture** – Databricks, FastAPI, Delta Lake, MLflow, Unity Catalog  
+- **Translation** – bridging Privacy, Legal, HR, Compliance, and Engineering teams  
+
+---
+
+## 📂 Featured Repositories  
+
+### 🔒 [compliance-ai-reference-arch](https://github.com/skatwala/compliance-ai-reference-arch)  
+*Reference architecture for compliance-first AI systems on Databricks.*  
+- PHI/PII masking & redaction  
+- Delta Lake ACID/Time Travel for auditability  
+- MLflow model governance & reproducibility  
+- Checklists for regulated industries (healthcare, finance, HR)  
+
+---
+
+### ⚖️ [trustgate-fastapi](https://github.com/skatwala/trustgate-fastapi)  
+*TrustGate Reliability Kit – audit-ready FastAPI patterns.*  
+- Trace IDs via `ContextVar` for per-request accountability  
+- Retry & backoff decorators with jitter (resiliency patterns)  
+- Structured logging for audit trails  
+- Designed for healthcare & financial APIs requiring **GRC controls**  
+
+---
+
+### 🌐 [TrustGate](https://github.com/skatwala/TrustGate)  
+*Enterprise AI Gateway with compliance hooks.*  
+- Region-aware routing for GDPR/HIPAA sovereignty  
+- External API calls wrapped with audit logging  
+- Pydantic-based schema validation for input/output safety  
+- Gateway pattern enabling **secure, observable AI integration**  
+
+---
+
+## 🎯 Why This Matters
+AI adoption in regulated industries is accelerating — but so are **regulatory, privacy, and reputational risks**.  
+I focus on **compliance-first AI enablement**, ensuring systems are:  
+- ✅ Traceable  
+- ✅ Auditable  
+- ✅ Reliable  
+- ✅ Regulatory-ready  
+
+---
+
+## 📫 Connect
+- LinkedIn → (https://www.linkedin.com/in/saptarshi-katwala/)
+- Email → skatwala@gmail.com  
+
+---
+
+> “AI systems don’t fail on accuracy alone — they fail on trust.  
+> I build the **trust layer** that lets enterprises scale safely.”
