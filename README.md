@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Saptarshi Katwala  
 
-**Director-level AI Compliance & Risk Integrator**  
+**AI Compliance & Governance Leader**  
 Helping enterprises deploy AI responsibly across healthcare, finance, and regulated industries.  
 
 ---
