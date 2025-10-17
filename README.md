@@ -1,3 +1,9 @@
+# 🧭 AI Governance Framework
+
+> **Enterprise governance, budgeting, and decision frameworks for responsible AI adoption.**
+
+---
+
 # 👋 Hi, I'm Saptarshi Katwala  
 
 **AI Compliance & Governance Leader**  
@@ -15,7 +21,21 @@ My work lives at the intersection of:
 
 ---
 
-## 📂 Featured Repositories  
+## 🗂️ About This Repository
+
+This repository contains **non-confidential director-level governance artifacts** for responsible AI implementation — the “business side” of the TrustGate and Compliance-AI initiatives.  
+It shows how **AI strategy**, **financial control**, and **governance oversight** integrate with technical compliance systems.
+
+### Folder Overview
+| Folder | Description |
+|--------|--------------|
+| **Governance/** | Regulation trackers, risk registers, and operating model templates |
+| **Finance/** | Budget playbooks and architecture cost frameworks |
+| **Decisions/** | Executive memos and approval logs for AI oversight |
+
+---
+
+## 📂 Related Repositories  
 
 ### 🧮 [trustgate-evals](https://github.com/skatwala/trustgate-evals)  
 *Lightweight evaluation harness for speech-to-text and intent models, used in TrustGate’s AI compliance workflows.*  
