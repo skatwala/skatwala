@@ -6,7 +6,7 @@ Helping enterprises deploy AI responsibly across healthcare, finance, and regula
 ---
 
 ## 🛡️ What I Do
-I build **reference architectures** and **compliance guardrails** for AI systems — so organizations can scale AI adoption without risking privacy, auditability, or regulatory failure.  
+I build **reference architectures** and **compliance guardrails** for AI systems — enabling organizations to scale AI without risking privacy, auditability, or regulatory failure.  
 
 My work lives at the intersection of:  
 - **Governance** – GDPR, HIPAA, GxP, EU AI Act, bias/fairness audits  
@@ -17,12 +17,12 @@ My work lives at the intersection of:
 
 ## 📂 Featured Repositories  
 
-### 🔒 [compliance-ai-reference-arch](https://github.com/skatwala/compliance-ai-reference-arch)  
-*Reference architecture for compliance-first AI systems on Databricks.*  
-- PHI/PII masking & redaction  
-- Delta Lake ACID/Time Travel for auditability  
-- MLflow model governance & reproducibility  
-- Checklists for regulated industries (healthcare, finance, HR)  
+### 🧮 [trustgate-evals](https://github.com/skatwala/trustgate-evals)  
+*Lightweight evaluation harness for speech-to-text and intent models, used in TrustGate’s AI compliance workflows.*  
+- WER/CER evaluation for speech-to-text quality  
+- F1 and confusion matrix metrics for intent classification  
+- Fully test-driven with reproducible JSON datasets  
+- Designed for traceable, audit-ready evaluation pipelines  
 
 ---
 
@@ -35,18 +35,18 @@ My work lives at the intersection of:
 
 ---
 
-### 🌐 [TrustGate](https://github.com/skatwala/TrustGate)  
-*Enterprise AI Gateway with compliance hooks.*  
-- Region-aware routing for GDPR/HIPAA sovereignty  
-- External API calls wrapped with audit logging  
-- Pydantic-based schema validation for input/output safety  
-- Gateway pattern enabling **secure, observable AI integration**  
+### 🧭 [compliance-ai-reference-arch](https://github.com/skatwala/compliance-ai-reference-arch)  
+*Reference architecture for compliance-first AI systems on Databricks.*  
+- PHI/PII masking & redaction  
+- Delta Lake ACID/Time Travel for auditability  
+- MLflow model governance & reproducibility  
+- Checklists for regulated industries (healthcare, finance, HR)  
 
 ---
 
 ## 🎯 Why This Matters
 AI adoption in regulated industries is accelerating — but so are **regulatory, privacy, and reputational risks**.  
-I focus on **compliance-first AI enablement**, ensuring systems are:  
+My focus is on **compliance-first AI enablement**, ensuring systems are:  
 - ✅ Traceable  
 - ✅ Auditable  
 - ✅ Reliable  
@@ -55,8 +55,8 @@ I focus on **compliance-first AI enablement**, ensuring systems are:
 ---
 
 ## 📫 Connect
-- LinkedIn → (https://www.linkedin.com/in/saptarshi-katwala/)
-- Email → skatwala@gmail.com  
+- [LinkedIn](https://www.linkedin.com/in/saptarshi-katwala/)
+- 📧 skatwala@gmail.com  
 
 ---
 
