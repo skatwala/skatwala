@@ -1,9 +1,3 @@
-# 🧭 AI Governance Framework
-
-> **Enterprise governance, budgeting, and decision frameworks for responsible AI adoption.**
-
----
-
 # 👋 Hi, I'm Saptarshi Katwala  
 
 **AI Compliance & Governance Leader**  
@@ -21,21 +15,16 @@ My work lives at the intersection of:
 
 ---
 
-## 🗂️ About This Repository
+## 📂 Featured Repositories  
 
-This repository contains **non-confidential director-level governance artifacts** for responsible AI implementation — the “business side” of the TrustGate and Compliance-AI initiatives.  
-It shows how **AI strategy**, **financial control**, and **governance oversight** integrate with technical compliance systems.
-
-### Folder Overview
-| Folder | Description |
-|--------|--------------|
-| **Governance/** | Regulation trackers, risk registers, and operating model templates |
-| **Finance/** | Budget playbooks and architecture cost frameworks |
-| **Decisions/** | Executive memos and approval logs for AI oversight |
+### 🧭 [ai-governance-framework](https://github.com/skatwala/ai-governance-framework)  
+*Enterprise governance, budgeting, and decision frameworks for responsible AI adoption.*  
+- Regulation tracking, risk registers, and financial oversight templates  
+- Executive decision memos for AI governance  
+- Non-confidential artifacts illustrating director-level GRC processes  
+- Complements TrustGate and Compliance-AI technical systems  
 
 ---
-
-## 📂 Related Repositories  
 
 ### 🧮 [trustgate-evals](https://github.com/skatwala/trustgate-evals)  
 *Lightweight evaluation harness for speech-to-text and intent models, used in TrustGate’s AI compliance workflows.*  
@@ -55,7 +44,7 @@ It shows how **AI strategy**, **financial control**, and **governance oversight*
 
 ---
 
-### 🧭 [compliance-ai-reference-arch](https://github.com/skatwala/compliance-ai-reference-arch)  
+### 🧩 [compliance-ai-reference-arch](https://github.com/skatwala/compliance-ai-reference-arch)  
 *Reference architecture for compliance-first AI systems on Databricks.*  
 - PHI/PII masking & redaction  
 - Delta Lake ACID/Time Travel for auditability  
